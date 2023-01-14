@@ -1,0 +1,1 @@
+{"hostname": "myhost.example.com", "hosted_zone": "1234567890ABCD", "record_type": "A", "ttl": 60, "last_ip": null, "my_ip": "1.2.3.4", "dns_ip": "1.2.3.4", "updated": 1673733068.033418}
